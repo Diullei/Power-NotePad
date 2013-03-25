@@ -1,0 +1,1 @@
+.\src\external\node-webkit-v0.4.2-win-ia32\nw.exe .\src
